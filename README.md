@@ -1,4 +1,6 @@
-# Neovim from scratch
+# Neovim
+
+Modified to my likings used ChristianChiarulli Neovim from scratch as a base
 
 ## Try out this config
 
