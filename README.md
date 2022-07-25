@@ -83,3 +83,9 @@ cd vscode-java-test
 npm install
 npm run build-plugin
 ```
+### installing missing dependencies
+```bash
+  sudo pacman -S rg fd fzf ripgrep universal-ctags fd shellcheck codespell flake8 prettier xclip composer luarocks cargo ruby julia
+
+  pip install pynvim black
+```
